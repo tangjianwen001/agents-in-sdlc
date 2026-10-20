@@ -16,6 +16,7 @@ Ao longo deste laboratório, você trabalhou com o GitHub Copilot em várias tar
 ### Cenário
 
 Os fundamentos do design de software e do DevOps não mudam com a adição de IA generativa. Você ainda precisa de um ciclo real de revisão de tudo o que o Copilot produz. Com isso em mente, vamos enviar as alterações de acessibilidade do codespace ao repositório remoto, abrir um pull request e examinar o diff antes de envolver o restante da equipe.
+
 ## Publicar os recursos de acessibilidade
 
 Os controles de alto contraste e modo claro que você implementou com o agente personalizado de acessibilidade no [Exercício 4][exercise-4] e no [Exercício 5][exercise-5] estão no codespace como alterações registradas em commits. Vamos enviá-las para uma branch no repositório remoto e abrir um pull request para que o restante da equipe possa revisar.
@@ -41,7 +42,7 @@ Os controles de alto contraste e modo claro que você implementou com o agente p
 11. Aguarde a conclusão dos fluxos de trabalho. Se tudo correr bem, eles deverão passar.
 
 > [!TIP]
-> Quer uma segunda opinião sobre o trabalho de acessibilidade? Marque `@copilot` em um comentário no PR com uma solicitação como "revise este PR em busca de outros problemas relacionados às WCAG" ou "sugira melhorias na navegação por teclado". O Copilot iniciará uma nova sessão para atender ao comentário.
+> Quer uma segunda opinião sobre o trabalho de acessibilidade? Marque `@copilot` em um comentário no PR com uma solicitação como "revise este PR em busca de outros problemas relacionados às Diretrizes de Acessibilidade para Conteúdo Web (WCAG)" ou "sugira melhorias na navegação por teclado". O Copilot iniciará uma nova sessão para atender ao comentário.
 
 ## Exercício opcional - continuar explorando localmente
 
